@@ -13,6 +13,9 @@ A Streamlit-based movie recommender system that suggests movies and displays the
 ### 3. Object-Detection-with-OpenCV
 An object detection project that uses OpenCV and Haar Cascade algorithm to detect Faces and Eyes on humans in images and videos, detect Pedestrians and Cars on Videos, detect Car's Plate on Images.
 
-### 4. Turbofan-Predictive-Maintenance
+### 4. Text-Generation-using-NLP
+An NLP project that create poetry using a LSTM model trained on Shakespeare sonnets.
+
+### 5. Turbofan-Predictive-Maintenance
 A predictive maintenance project that predicts the remaining useful life of turbofan engines based on sensor data. Uses scikit-learn, multivariate time-series analysis, classification model and feature engineering.
 
