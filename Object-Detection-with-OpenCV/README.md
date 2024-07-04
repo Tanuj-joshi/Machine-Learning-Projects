@@ -1,6 +1,6 @@
 # Object-Detection-with-OpenCV
 
-![Description of image](output-image.png)
+![Description of image](output_image.png)
 
 
 In this Project, using OpenCV, we are going to carry following task with the help of Haarcascade classifiers:
