@@ -19,28 +19,6 @@ The project is divided into multiple tasks which are performed in individual jup
 
 Goal is to predict if the first stage will land using Machine Learning.
 
-
-## Installation
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/Tanuj-joshi/SPACEX-Rocket-Landing-Prediction.git 
-   ```
-
-2. Create a virtual environment and activate it::
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-   ```
-
-3. Install the required dependencies:
-
-   ```bash
-   pip3 install -r requirements.txt
-   ```
-
 ## Contributing
 
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to fork the repository and submit a pull request.
