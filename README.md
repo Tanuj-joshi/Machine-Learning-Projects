@@ -13,9 +13,12 @@ A Streamlit-based movie recommender system that suggests movies and displays the
 ### 3. Object-Detection-with-OpenCV
 An object detection project that uses OpenCV and Haar Cascade algorithm to detect Faces and Eyes on humans in images and videos, detect Pedestrians and Cars on Videos, detect Car's Plate on Images.
 
-### 4. Text-Generation-using-NLP
+### 4. SpaceX-Rocket-Landing-Prediction
+In this Project, we will predict if the Falcon 9 first stage will land successfully.
+
+### 5. Text-Generation-using-NLP
 An NLP project that generates poetry using a LSTM model from TensorFlow, Keras library trained on Shakespeare sonnets.
 
-### 5. Turbofan-Predictive-Maintenance
+### 6. Turbofan-Predictive-Maintenance
 A predictive maintenance project that predicts the remaining useful life of turbofan engines based on sensor data. Uses scikit-learn, multivariate time-series analysis, classification model and feature engineering.
 
